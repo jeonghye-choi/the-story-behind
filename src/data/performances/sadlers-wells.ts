@@ -27,10 +27,10 @@ export const sadlersWellsPerformances: Performance[] = [
     title: 'The Snowman',
     venue: 'Peacock Theatre',
     genre: 'Contemporary',
-    startDate: '2026-11-21',
+    startDate: '2026-11-25',
     endDate: '2027-01-03',
     imageUrl:
-      'https://images.sadlerswells.com/uploads/2026/02/LEAD-IMAGE_Birmingham-Repertory-Theatre-The-Snowman_2700x1080-scaled.jpg',
+      'https://images.sadlerswells.com/uploads/2026/11/Snowman-201026-JP00893-scaled.jpg',
     ticketUrl: 'https://www.sadlerswells.com/whats-on/the-snowman-2026/#book',
   },
   {
@@ -211,6 +211,16 @@ export const sadlersWellsPerformances: Performance[] = [
     imageUrl: 'https://images.sadlerswells.com/uploads/2026/04/dorothee.jpg',
     ticketUrl:
       'https://www.sadlerswells.com/whats-on/dorothee-munyaneza-cie-kadidi-umuko/#book',
+  },
+  {
+    title: 'Bad Boys of Bollywood',
+    venue: 'Peacock Theatre',
+    genre: 'National Dance',
+    startDate: '2027-02-04',
+    endDate: '2027-02-20',
+    imageUrl: 'https://images.sadlerswells.com/uploads/2026/11/BBOB_test.jpg',
+    ticketUrl:
+      'https://www.sadlerswells.com/whats-on/bad-boys-of-bollywood/#book',
   },
   {
     title: 'S-E-D / Sharon Eyal – Delay the Sadness',
@@ -588,6 +598,16 @@ export const sadlersWellsPerformances: Performance[] = [
     imageUrl:
       'https://images.sadlerswells.com/uploads/2026/05/BalletShoes_Sadlers_ProductionShots_2700x1080_1-scaled.jpg',
     ticketUrl: 'https://www.sadlerswells.com/whats-on/ballet-shoes/',
+  },
+  {
+    title: 'Ballet Shoes: The Multi-Sensory Show',
+    venue: "Sadler's Wells Theatre",
+    genre: 'Ballet',
+    startDate: '2027-09-10',
+    imageUrl:
+      'https://images.sadlerswells.com/uploads/2026/09/LEAD-IMAGE-Ballet-Shoes-Frozen-Light-Access--Cameron-Slater-2700-x-1080-1-scaled.jpg',
+    ticketUrl:
+      'https://www.sadlerswells.com/whats-on/ballet-shoes-the-muti-sensory-show/',
   },
   {
     title: "Rambert – It's a Sin",

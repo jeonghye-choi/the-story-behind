@@ -70,7 +70,7 @@ export const royalOperaHousePerformances: Performance[] = [
     endDate: '2027-03-13',
     imageUrl:
       'https://images.prismic.io/royal-opera-house/aamkv1xvIZEnjXt-_HERO_MADDADDAM_2627_DSC1079.jpg',
-    ticketUrl: 'https://www.rbo.org.uk/tickets-and-events/maddaddam-details',
+    ticketUrl: 'https://www.rbo.org.uk/production/maddaddam-wayne-mcgregor',
   },
   {
     title: 'Ballet Black: Unbound',
@@ -88,6 +88,8 @@ export const royalOperaHousePerformances: Performance[] = [
     genre: 'Ballet',
     startDate: '2027-03-27',
     endDate: '2027-05-31',
+    imageUrl:
+      'https://images.prismic.io/royal-opera-house/aammxFxvIZEnjXxJ_HERO_SWANLAKE_2627_DSC01888.jpg',
     ticketUrl: 'https://www.rbo.org.uk/production/swan-lake-marius-petipa',
   },
   {
